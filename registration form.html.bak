@@ -1,0 +1,38 @@
+<!doctype html>
+<html>
+<head><title> registration form</title></head>
+<body>
+<table border="1" cellspacing="0px" width="900px" align="center" bgcolor="lightblue">
+<tr> 
+<th><a href="web link.html">Reset</a> <a href="resume.html">Resume</a><h1 align="center"> <font color="red">Registration form </font></h1></th>
+</tr>
+</table>
+
+
+
+<table border="1" cellspacing="0px" width="900px" align="center" bgcolor="lightblue">
+<form>
+<tr>
+<th align="left">first name&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<input type="text">
+Middle Name <input type="text">
+last Name <input type="text">
+</br></br>
+father's Name <input type="text" size="15">
+</br></br>
+DOB&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<input type="date">
+</br></br>
+Mobile No.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<input type="number">
+</br></br>
+Email ID&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<input type="text">
+</br></br>
+Address&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<textarea></textarea>
+</br></br>
+<input type="submit">
+
+
+</th>
+</tr>
+</form>
+</table>
+</body>
+</html>
